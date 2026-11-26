@@ -1,0 +1,87 @@
+import { Container, clx } from "@modules/common/components/ui"
+import Image from "next/image"
+import React from "react"
+
+import PlaceholderImage from "@modules/common/icons/placeholder-image"
+
+type ThumbnailProps = {
+  thumbnail?: string | null
+  images?: { url?: string }[] | null
+  size?: "small" | "medium" | "large" | "full" | "square"
+  imageFit?: "contain" | "cover"
+  isFeatured?: boolean
+  className?: string
+  alt?: string
+  "data-testid"?: string
+}
+
+const Thumbnail: React.FC<ThumbnailProps> = ({
+  thumbnail,
+  images,
+  size = "small",
+  imageFit = "cover",
+  isFeatured,
+  className,
+  alt = "",
+  "data-testid": dataTestid,
+}) => {
+  const initialImage = thumbnail || images?.[0]?.url
+
+  return (
+    <Container
+      className={clx(
+        "relative w-full overflow-hidden p-4 bg-white border border-ui-border-base rounded-xl transition-colors duration-150 group-hover:border-ui-fg-muted",
+        className,
+        {
+          "aspect-[11/14]": isFeatured,
+          "aspect-[9/16]":
+            !isFeatured && size !== "square" && size !== "full",
+          "aspect-square":
+            !isFeatured && (size === "square" || size === "full"),
+          "w-[180px]": size === "small",
+          "w-[290px]": size === "medium",
+          "w-[440px]": size === "large",
+          "w-full": size === "full",
+        }
+      )}
+      data-testid={dataTestid}
+    >
+      <ImageOrPlaceholder
+        image={initialImage}
+        size={size}
+        alt={alt}
+        imageFit={imageFit}
+      />
+    </Container>
+  )
+}
+
+const ImageOrPlaceholder = ({
+  image,
+  size,
+  alt,
+  imageFit,
+}: Pick<ThumbnailProps, "size" | "alt" | "imageFit"> & {
+  image?: string
+}) => {
+  return image ? (
+    <Image
+      src={image}
+      alt={alt ?? ""}
+      className={clx(
+        "absolute inset-0 object-center",
+        imageFit === "contain" ? "object-contain p-8" : "object-cover"
+      )}
+      draggable={false}
+      quality={50}
+      sizes="(max-width: 576px) 280px, (max-width: 768px) 360px, (max-width: 992px) 480px, 800px"
+      fill
+    />
+  ) : (
+    <div className="w-full h-full absolute inset-0 flex items-center justify-center">
+      <PlaceholderImage size={size === "small" ? 16 : 24} />
+    </div>
+  )
+}
+
+export default Thumbnail

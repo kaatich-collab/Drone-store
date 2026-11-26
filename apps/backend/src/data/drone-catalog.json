@@ -1,0 +1,1083 @@
+[
+  {
+    "id": 1,
+    "slug": "skylle-ii",
+    "name": "Skylle II",
+    "brand": "MMCUAV",
+    "category": "Industrial",
+    "description": "Carbon-fiber hexacopter with modular payload interfaces and dual-backup intelligent batteries.",
+    "priceCents": null,
+    "imageUrl": "/images/products/skylle-ii.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Platform",
+        "value": "Hexacopter",
+        "sortOrder": 0
+      },
+      {
+        "name": "Endurance",
+        "value": "80 min",
+        "sortOrder": 1
+      },
+      {
+        "name": "Payload",
+        "value": "10 kg",
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "skylle-ii-p",
+    "name": "Skylle II-P",
+    "brand": "MMCUAV",
+    "category": "Industrial",
+    "description": "Large-payload hexacopter with quick-detachable arms and modular avionics.",
+    "priceCents": null,
+    "imageUrl": "/images/products/skylle-ii-p.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Platform",
+        "value": "Hexacopter",
+        "sortOrder": 0
+      },
+      {
+        "name": "Endurance",
+        "value": "61 min",
+        "sortOrder": 1
+      },
+      {
+        "name": "Payload",
+        "value": "15 kg",
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "skylle-1550",
+    "name": "Skylle 1550",
+    "brand": "MMCUAV",
+    "category": "Industrial",
+    "description": "Carbon-fiber industrial hexacopter with a gradient-arm structure and modular payload mounting.",
+    "priceCents": null,
+    "imageUrl": "/images/products/skylle-1550.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Platform",
+        "value": "Hexacopter",
+        "sortOrder": 0
+      },
+      {
+        "name": "Endurance",
+        "value": "75 min",
+        "sortOrder": 1
+      },
+      {
+        "name": "Payload",
+        "value": "10 kg",
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "notuzi-b900",
+    "name": "Notuzi B900",
+    "brand": "MMCUAV",
+    "category": "Industrial",
+    "description": "Carbon-fiber industrial quadcopter with brushless motors and a modular gimbal interface.",
+    "priceCents": null,
+    "imageUrl": "/images/products/notuzi-b900.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Platform",
+        "value": "Quadcopter",
+        "sortOrder": 0
+      },
+      {
+        "name": "Endurance",
+        "value": "60 min",
+        "sortOrder": 1
+      },
+      {
+        "name": "Payload",
+        "value": "3 kg",
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "notuzi-ii",
+    "name": "Notuzi II",
+    "brand": "MMCUAV",
+    "category": "Industrial",
+    "description": "Foldable-arm quadcopter with a plug-and-play payload interface.",
+    "priceCents": null,
+    "imageUrl": "/images/products/notuzi-ii.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Platform",
+        "value": "Quadcopter",
+        "sortOrder": 0
+      },
+      {
+        "name": "Endurance",
+        "value": "50 min",
+        "sortOrder": 1
+      },
+      {
+        "name": "Payload",
+        "value": "3 kg",
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "notuzi-s",
+    "name": "Notuzi S",
+    "brand": "MMCUAV",
+    "category": "Industrial",
+    "description": "Compact modular quadcopter with removable landing gear and a universal payload interface.",
+    "priceCents": null,
+    "imageUrl": "/images/products/notuzi-s.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Platform",
+        "value": "Quadcopter",
+        "sortOrder": 0
+      },
+      {
+        "name": "Endurance",
+        "value": "50 min",
+        "sortOrder": 1
+      },
+      {
+        "name": "Payload",
+        "value": "1 kg",
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "mini3",
+    "name": "Mini3",
+    "brand": "JADGER",
+    "category": "Enterprise",
+    "description": "Compact all-in-one aircraft in the JADGER Mini series.",
+    "priceCents": null,
+    "imageUrl": "/images/products/mini3.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Endurance",
+        "value": "32 min",
+        "sortOrder": 0
+      },
+      {
+        "name": "Wheelbase",
+        "value": "214 mm",
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "mini3-se",
+    "name": "Mini3 SE",
+    "brand": "JADGER",
+    "category": "Enterprise",
+    "description": "Compact all-in-one aircraft in the JADGER Mini series.",
+    "priceCents": null,
+    "imageUrl": "/images/products/mini3-se.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Endurance",
+        "value": "32 min",
+        "sortOrder": 0
+      },
+      {
+        "name": "Wheelbase",
+        "value": "214 mm",
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "x8-thermal",
+    "name": "X8 Thermal",
+    "brand": "JADGER",
+    "category": "Industrial",
+    "description": "JADGER X8 aircraft configured for thermal imaging.",
+    "priceCents": null,
+    "imageUrl": "/images/products/x8-thermal.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Endurance",
+        "value": "47 min",
+        "sortOrder": 0
+      },
+      {
+        "name": "Wheelbase",
+        "value": "372 mm",
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "x8-tele-max",
+    "name": "X8 Tele Max",
+    "brand": "JADGER",
+    "category": "Industrial",
+    "description": "JADGER X8 aircraft configured for telephoto imaging.",
+    "priceCents": null,
+    "imageUrl": "/images/products/x8-tele-max.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Endurance",
+        "value": "47 min",
+        "sortOrder": 0
+      },
+      {
+        "name": "Wheelbase",
+        "value": "372 mm",
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "leopard-head-h1250",
+    "name": "Leopard head H1250",
+    "brand": "MMCUAV",
+    "category": "Industrial",
+    "description": "Long-endurance, multipurpose UAV platform.",
+    "priceCents": null,
+    "imageUrl": "/images/products/leopard-head-h1250.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Endurance",
+        "value": "30 hours",
+        "sortOrder": 0
+      },
+      {
+        "name": "Maximum payload",
+        "value": "280 kg",
+        "sortOrder": 1
+      },
+      {
+        "name": "Maximum range",
+        "value": "4,500 km",
+        "sortOrder": 2
+      },
+      {
+        "name": "Wingspan",
+        "value": "17.1 m",
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "griflion-m12",
+    "name": "Griflion M12",
+    "brand": "MMCUAV",
+    "category": "Industrial",
+    "description": "Fuel-powered composite-wing VTOL platform for long-endurance, heavy-payload operations.",
+    "priceCents": null,
+    "imageUrl": "/images/products/griflion-m12.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Endurance",
+        "value": "420 min no load; 240 min at 55 kg",
+        "sortOrder": 0
+      },
+      {
+        "name": "Maximum payload",
+        "value": "55 kg",
+        "sortOrder": 1
+      },
+      {
+        "name": "Maximum take-off weight",
+        "value": "200 kg",
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "griflion-m11",
+    "name": "Griflion M11",
+    "brand": "MMCUAV",
+    "category": "Industrial",
+    "description": "Electric composite-wing VTOL platform with a quick-assembly, double-tail-boom airframe.",
+    "priceCents": null,
+    "imageUrl": "/images/products/griflion-m11.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Endurance",
+        "value": "150 min no load",
+        "sortOrder": 0
+      },
+      {
+        "name": "Maximum payload",
+        "value": "15 kg",
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "griflion-m10",
+    "name": "Griflion M10",
+    "brand": "MMCUAV",
+    "category": "Industrial",
+    "description": "Medium-sized composite VTOL fixed-wing aircraft.",
+    "priceCents": null,
+    "imageUrl": "/images/products/griflion-m10.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Endurance",
+        "value": "150 min",
+        "sortOrder": 0
+      },
+      {
+        "name": "Maximum payload",
+        "value": "10 kg",
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "griflion-m9",
+    "name": "Griflion M9",
+    "brand": "MMCUAV",
+    "category": "Industrial",
+    "description": "Electric VTOL fixed-wing aircraft with a composite aerodynamic layout.",
+    "priceCents": null,
+    "imageUrl": "/images/products/griflion-m9.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Endurance",
+        "value": "150 min",
+        "sortOrder": 0
+      },
+      {
+        "name": "Maximum payload",
+        "value": "3 kg",
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "griflion-m8",
+    "name": "Griflion M8",
+    "brand": "MMCUAV",
+    "category": "Industrial",
+    "description": "Lightweight electric VTOL fixed-wing aircraft with a modular configuration.",
+    "priceCents": null,
+    "imageUrl": "/images/products/griflion-m8.png",
+    "modelUrl": "/models/griflion-m8.glb",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Endurance",
+        "value": "170 min",
+        "sortOrder": 0
+      },
+      {
+        "name": "Maximum payload",
+        "value": "1 kg",
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "etlas-neo-iii",
+    "name": "Etlas Neo III",
+    "brand": "MMCUAV",
+    "category": "Ground Control",
+    "description": "Ground station for controlling MMCUAV aircraft.",
+    "priceCents": null,
+    "imageUrl": "/images/products/etlas-neo-iii.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 18,
+    "slug": "etlas-mobile-i",
+    "name": "Etlas Mobile I",
+    "brand": "MMCUAV",
+    "category": "Ground Control",
+    "description": "Handheld integrated UAV controller.",
+    "priceCents": null,
+    "imageUrl": "/images/products/etlas-mobile-i.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 19,
+    "slug": "etlas-mobile-ii",
+    "name": "Etlas Mobile II",
+    "brand": "MMCUAV",
+    "category": "Ground Control",
+    "description": "Smart remote control for MMCUAV aircraft.",
+    "priceCents": null,
+    "imageUrl": "/images/products/etlas-mobile-ii.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 20,
+    "slug": "mccv",
+    "name": "MCCV",
+    "brand": "MMCUAV",
+    "category": "Ground Control",
+    "description": "Ground control system listed in the MMCUAV product brochure.",
+    "priceCents": null,
+    "imageUrl": "/images/products/mccv.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 21,
+    "slug": "marstation-drone-box-ii",
+    "name": "Marstation Drone Box II",
+    "brand": "MMCUAV",
+    "category": "Drone-in-a-Box",
+    "description": "Drone-box system with the brochure-listed Skylle II and Notuzi II configurations.",
+    "priceCents": null,
+    "imageUrl": "/images/products/marstation-drone-box-ii.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 22,
+    "slug": "skylle-ii-rechargeable",
+    "name": "Skylle II Rechargeable",
+    "brand": "MMCUAV",
+    "category": "Industrial",
+    "description": "Rechargeable Skylle II configuration listed in the Marstation Drone Box II section.",
+    "priceCents": null,
+    "imageUrl": "/images/products/skylle-ii.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 23,
+    "slug": "skylle-ii-reformulated",
+    "name": "Skylle II Reformulated",
+    "brand": "MMCUAV",
+    "category": "Industrial",
+    "description": "Reformulated Skylle II configuration listed in the Marstation Drone Box II section.",
+    "priceCents": null,
+    "imageUrl": "/images/products/skylle-ii-p.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 24,
+    "slug": "notuzi-ii-rechargeable",
+    "name": "Notuzi II Rechargeable",
+    "brand": "MMCUAV",
+    "category": "Industrial",
+    "description": "Rechargeable Notuzi II configuration listed in the Marstation Drone Box II section.",
+    "priceCents": null,
+    "imageUrl": "/images/products/notuzi-ii.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 25,
+    "slug": "cirrutitan-2",
+    "name": "Cirrutitan 2",
+    "brand": "MMCUAV",
+    "category": "Tethered Power",
+    "description": "Tethered power system developed for the Skylle II hexacopter.",
+    "priceCents": null,
+    "imageUrl": "/images/products/cirrutitan-2.jpg",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 26,
+    "slug": "p20-payload",
+    "name": "P20 Payload",
+    "brand": "Thyea",
+    "category": "Payload",
+    "description": "Thyea P20 payload listed in the MMCUAV product brochure.",
+    "priceCents": null,
+    "imageUrl": "/images/products/p20-payload.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 27,
+    "slug": "z40-pro-payload",
+    "name": "Z40 Pro Payload",
+    "brand": "Thyea",
+    "category": "Payload",
+    "description": "Thyea Z40 Pro payload listed in the MMCUAV product brochure.",
+    "priceCents": null,
+    "imageUrl": "/images/products/z40-pro-payload.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 28,
+    "slug": "z60r-payload",
+    "name": "Z60R Payload",
+    "brand": "Thyea",
+    "category": "Payload",
+    "description": "Thyea Z60R payload listed in the MMCUAV product brochure.",
+    "priceCents": null,
+    "imageUrl": "/images/products/z60r-payload.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 29,
+    "slug": "zt10s-payload",
+    "name": "ZT10S Payload",
+    "brand": "Thyea",
+    "category": "Payload",
+    "description": "Thyea ZT10S payload listed in the MMCUAV product brochure.",
+    "priceCents": null,
+    "imageUrl": "/images/products/zt10s-payload.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 30,
+    "slug": "ht4k-payload",
+    "name": "HT4K Payload",
+    "brand": "Thyea",
+    "category": "Payload",
+    "description": "Thyea HT4K payload listed in the MMCUAV product brochure.",
+    "priceCents": null,
+    "imageUrl": "/images/products/ht4k-payload.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 31,
+    "slug": "zt40r-35-payload",
+    "name": "ZT40R_35 Payload",
+    "brand": "Thyea",
+    "category": "Payload",
+    "description": "Thyea ZT40R_35 payload listed in the MMCUAV product brochure.",
+    "priceCents": null,
+    "imageUrl": "/images/products/zt40r-35-payload.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 32,
+    "slug": "zt60r-payload",
+    "name": "ZT60R Payload",
+    "brand": "Thyea",
+    "category": "Payload",
+    "description": "Thyea ZT60R payload listed in the MMCUAV product brochure.",
+    "priceCents": null,
+    "imageUrl": "/images/products/zt60r-payload.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 33,
+    "slug": "ht18r-payload",
+    "name": "HT18R Payload",
+    "brand": "Thyea",
+    "category": "Payload",
+    "description": "Thyea HT18R payload listed in the MMCUAV product brochure.",
+    "priceCents": null,
+    "imageUrl": "/images/products/ht18r-payload.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 34,
+    "slug": "t3-payload",
+    "name": "T3 Payload",
+    "brand": "Thyea",
+    "category": "Payload",
+    "description": "Thyea T3 payload listed in the MMCUAV product brochure.",
+    "priceCents": null,
+    "imageUrl": "/images/products/t3-payload.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 35,
+    "slug": "zt30r-p-payload",
+    "name": "ZT30R_P Payload",
+    "brand": "Thyea",
+    "category": "Payload",
+    "description": "Thyea ZT30R_P payload listed in the MMCUAV product brochure.",
+    "priceCents": null,
+    "imageUrl": "/images/products/zt30r-p-payload.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 36,
+    "slug": "zt30rl-p-payload",
+    "name": "ZT30RL_P Payload",
+    "brand": "Thyea",
+    "category": "Payload",
+    "description": "Thyea ZT30RL_P payload listed in the MMCUAV product brochure.",
+    "priceCents": null,
+    "imageUrl": "/images/products/zt30rl-p-payload.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 37,
+    "slug": "x4-pro-payload",
+    "name": "X4 Pro Payload",
+    "brand": "Thyea",
+    "category": "Payload",
+    "description": "Thyea X4 Pro payload listed in the MMCUAV product brochure.",
+    "priceCents": null,
+    "imageUrl": "/images/products/x4-pro-payload.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 38,
+    "slug": "x6m-payload",
+    "name": "X6M Payload",
+    "brand": "Thyea",
+    "category": "Payload",
+    "description": "Thyea X6M payload listed in the MMCUAV product brochure.",
+    "priceCents": null,
+    "imageUrl": "/images/products/x6m-payload.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 39,
+    "slug": "x2s-payload",
+    "name": "X2S Payload",
+    "brand": "Thyea",
+    "category": "Payload",
+    "description": "Thyea X2S payload listed in the MMCUAV product brochure.",
+    "priceCents": null,
+    "imageUrl": "/images/products/x2s-payload.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 40,
+    "slug": "x3-payload",
+    "name": "X3 Payload",
+    "brand": "Thyea",
+    "category": "Payload",
+    "description": "Thyea X3 payload listed in the MMCUAV product brochure.",
+    "priceCents": null,
+    "imageUrl": "/images/products/x3-payload.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 41,
+    "slug": "thunder-payload",
+    "name": "Thunder Payload",
+    "brand": "Thyea",
+    "category": "Payload",
+    "description": "Thyea Thunder payload listed in the MMCUAV product brochure.",
+    "priceCents": null,
+    "imageUrl": "/images/products/thunder-payload.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 42,
+    "slug": "nova-payload",
+    "name": "Nova Payload",
+    "brand": "Thyea",
+    "category": "Payload",
+    "description": "Thyea Nova payload listed in the MMCUAV product brochure.",
+    "priceCents": null,
+    "imageUrl": "/images/products/nova-payload.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 43,
+    "slug": "meteo-payload",
+    "name": "Meteo Payload",
+    "brand": "Thyea",
+    "category": "Payload",
+    "description": "Thyea Meteo payload listed in the MMCUAV product brochure.",
+    "priceCents": null,
+    "imageUrl": "/images/products/meteo-payload.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 44,
+    "slug": "snifer-payload",
+    "name": "Snifer Payload",
+    "brand": "Thyea",
+    "category": "Payload",
+    "description": "Thyea Snifer payload listed in the MMCUAV product brochure.",
+    "priceCents": null,
+    "imageUrl": "/images/products/snifer-payload.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 45,
+    "slug": "volcan-payload",
+    "name": "Volcan Payload",
+    "brand": "Thyea",
+    "category": "Payload",
+    "description": "Thyea Volcan payload listed in the MMCUAV product brochure.",
+    "priceCents": null,
+    "imageUrl": "/images/products/volcan-payload.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 46,
+    "slug": "miysis-payload",
+    "name": "Miysis Payload",
+    "brand": "Thyea",
+    "category": "Payload",
+    "description": "Thyea Miysis payload listed in the MMCUAV product brochure.",
+    "priceCents": null,
+    "imageUrl": "/images/products/miysis-payload.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": []
+  },
+  {
+    "id": 49,
+    "slug": "z-marcorn-flight-controller-kit",
+    "name": "Z-Marcorn Flight Controller Kit",
+    "brand": "MMCUAV",
+    "category": "Components",
+    "description": "Modular flight-control and avionics kit with interchangeable modules.",
+    "priceCents": null,
+    "imageUrl": "/images/products/z-marcorn-flight-controller-kit.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Dimensions",
+        "value": "240 × 130 × 34 mm",
+        "sortOrder": 0
+      },
+      {
+        "name": "Weight",
+        "value": "510 g",
+        "sortOrder": 1
+      },
+      {
+        "name": "Transmission distance",
+        "value": "20 km",
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "slug": "m8108-motor",
+    "name": "M8108 Motor",
+    "brand": "MMCUAV",
+    "category": "Components",
+    "description": "MMCUAV M8108 propulsion motor.",
+    "priceCents": null,
+    "imageUrl": "/images/products/m8108-motor.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Stator size",
+        "value": "81 × 8 mm",
+        "sortOrder": 0
+      },
+      {
+        "name": "Weight",
+        "value": "225 g",
+        "sortOrder": 1
+      },
+      {
+        "name": "Maximum thrust",
+        "value": "7.4 kg/axle",
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "slug": "m6010-motor",
+    "name": "M6010 Motor",
+    "brand": "MMCUAV",
+    "category": "Components",
+    "description": "MMCUAV M6010 propulsion motor.",
+    "priceCents": null,
+    "imageUrl": "/images/products/m6010-motor.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Stator size",
+        "value": "60 × 10 mm",
+        "sortOrder": 0
+      },
+      {
+        "name": "Weight",
+        "value": "222 g",
+        "sortOrder": 1
+      },
+      {
+        "name": "Maximum thrust",
+        "value": "4.3 kg/axle",
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "slug": "m5210-motor",
+    "name": "M5210 Motor",
+    "brand": "MMCUAV",
+    "category": "Components",
+    "description": "MMCUAV M5210 propulsion motor.",
+    "priceCents": null,
+    "imageUrl": "/images/products/m5210-motor.png",
+    "modelUrl": "",
+    "sourceDocument": "MMCUAV_Drone Product Brochure.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Stator size",
+        "value": "51.8 × 10 mm",
+        "sortOrder": 0
+      },
+      {
+        "name": "Weight",
+        "value": "182 g",
+        "sortOrder": 1
+      },
+      {
+        "name": "Maximum thrust",
+        "value": "4.3 kg/axle",
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "slug": "l1-light-show-drone",
+    "name": "L1 Light Show Drone",
+    "brand": "MMC",
+    "category": "Light Show",
+    "description": "RTK-GNSS quadcopter designed for coordinated light-show formations.",
+    "priceCents": null,
+    "imageUrl": "/images/products/l1-light-show-drone.png",
+    "modelUrl": "",
+    "sourceDocument": "drone light show Specification.pdf",
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Hover time",
+        "value": "28 min",
+        "sortOrder": 0
+      },
+      {
+        "name": "Recommended operation time",
+        "value": "≤20 min",
+        "sortOrder": 1
+      },
+      {
+        "name": "Positioning",
+        "value": "RTK-GNSS; ±5 cm horizontal, ±6 cm vertical",
+        "sortOrder": 2
+      },
+      {
+        "name": "Light source",
+        "value": "RGB + white, 800 lm",
+        "sortOrder": 3
+      },
+      {
+        "name": "Drones per storage case",
+        "value": "12",
+        "sortOrder": 4
+      },
+      {
+        "name": "Charger",
+        "value": "1,500 W; supports 20 batteries",
+        "sortOrder": 5
+      }
+    ]
+  }
+]
